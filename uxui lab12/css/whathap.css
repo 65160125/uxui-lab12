@@ -1,0 +1,26 @@
+img{
+    width: 30px;
+    border-radius: 50%;
+}
+div{
+    display: flex;
+    align-items: center;
+}
+input[type=text]{
+    border: none;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 2px solid #2577e4;
+}
+span{
+    margin-left: 3px;
+}
+button{
+    border: none;
+    background-color: #1d9bf0;
+    border-radius: 26px;
+    color: white;
+    width: 60px;
+    height: 25px;
+}

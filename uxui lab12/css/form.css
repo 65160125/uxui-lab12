@@ -1,0 +1,28 @@
+.form{
+    display:block;
+
+}
+.fln input{
+    width: 120px;
+}
+div{
+    margin-top: 5px;
+}
+.email input{
+    width: 240px;
+}
+input{
+    height: 35px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: solid 1px gray;
+}
+button{
+    border: none;
+    background-color: #2577e4;
+    color: white;
+    height: 40px;
+    width: 225px;
+    border-radius: 5px;
+
+}
